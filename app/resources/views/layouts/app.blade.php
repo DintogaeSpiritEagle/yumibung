@@ -39,7 +39,7 @@
     </div>
     <div class="d-none">
         //--------------------------
-        Hi! I am Unleash user....you there?
+        Hi! I am Unleash user....you there?<br>
         My email is "user@unleash23.com" and my password you already know! It starts with "p"
         <br>
         <br>
@@ -59,7 +59,7 @@
         <br>
         <br>
         <br>
-        <br>Wait there's more....you need to unleash me!
+        <br>Wait there's more....you need to unleash me! Scroll down!
         <br>
         <br>
         <br>
@@ -108,10 +108,11 @@
         <br>
         <br>
         <br>
-        +----- Olo boi! -----+++
-        I am Unleash admin! I told you that my email is: "admin@...", And my power is: "dW5sM0BTSA=="
-        Can you find me???
-        "-----------------//
+        <br>+----- Woohoo! -----+++
+        <br>I am Unleash admin! I told you that my email is: "admin@...",
+        <br>And my power is: "dW5sM0BTSA==".
+        <br>Can you unleash my power???<br>
+        <br>"-----------------//<br>
     </div>
 </body>
 
