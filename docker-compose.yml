@@ -29,8 +29,8 @@ services:
         volume:
           nocopy: true
       - type: bind
-        source: ./backend
-        target: /work/backend
+        source: ./app
+        target: /work/app
       - type: volume
         source: psysh-store
         target: /root/.config/psysh
@@ -63,8 +63,8 @@ services:
         volume:
           nocopy: true
       - type: bind
-        source: ./backend
-        target: /work/backend
+        source: ./app
+        target: /work/app
     networks:
       - yumibung-network
 
