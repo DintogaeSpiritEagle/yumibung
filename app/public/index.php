@@ -1,5 +1,5 @@
 <?php
-echo("Got here!");die();
+
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
