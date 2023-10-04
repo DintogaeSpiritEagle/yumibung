@@ -15,8 +15,8 @@ SHELL ["/bin/ash", "-oeux", "pipefail", "-c"]
 ENV TZ=UTC
 
 # Add sh gcc compiler deps
-RUN apk update && \
-  apk add --update --no-cache --virtual=.build-dependencies g++
+# RUN apt update && \
+#  apt add --update --no-cache --virtual=.build-dependencies g++
 
 # Copy node command to container
 COPY --from=node /usr/local/bin /usr/local/bin
