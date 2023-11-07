@@ -11,4 +11,4 @@ LABEL maintainer="Spirit Eagle <yamis.spiriteagle@gmail.com>"
 ENV TZ=UTC
 
 # Copy mysql conf to container
-COPY ./infra/docker/mysql/my.cnf /etc/my.cnf
+COPY ./infra/docker/mysql/my.cnf /etc/my.cnf    
