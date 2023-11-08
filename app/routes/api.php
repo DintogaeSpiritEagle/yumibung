@@ -16,4 +16,6 @@ Route::group(['prefix' => 'v1', 'as' => 'api.', 'namespace' => 'Api\V1\Admin', '
     // Events
     Route::apiResource('events', 'EventsApiController');
 
+    // Godwin - Test API Controller Route
+
 });
